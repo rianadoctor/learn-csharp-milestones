@@ -48,9 +48,9 @@ Below is a list of tasks that correspond roughly to the "Take Action" sections o
 ## Chapter 1
 Getting to Know Your Environment (9–21)
 
-- [ ] ✏️ Open the reference manual for any component from inside Unity. Paste the link: **??**
-- [ ] ✏️ Find the button to jump to the scripting reference the any reference manual page. Paste the link: **??**
-- [ ] ✏️ Search for the `Strings` class in [Microsoft's C# documents](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/). Paste the link: **??**
+- [ ] ✏️ Open the reference manual for any component from inside Unity. Paste the link: **[RigidBody Reference Manual](https://docs.unity3d.com/6000.2/Documentation/Manual/class-Rigidbody.html)**
+- [ ] ✏️ Find the button to jump to the scripting reference the any reference manual page. Paste the link: **[Unity Scripting Reference](https://docs.unity3d.com/6000.2/Documentation/ScriptReference/index.html)**
+- [ ] ✏️ Search for the `Strings` class in [Microsoft's C# documents](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/). Paste the link: **[Strings](https://learn.microsoft.com/en-us/dotnet/api/system.string?view=net-9.0&utm_source=chatgpt.com)**
 
 
 ## Chapter 2
